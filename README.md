@@ -5,7 +5,7 @@ The Employment Management System is a web-based application designed to manage e
 The backend of the application is built using Spring Boot, a popular Java-based framework for building web applications. The application uses Hibernate as the ORM (Object-Relational Mapping) tool to interact with the MySQL database.
 
 # Database (MySQL):
-The application uses MySQL as the database management system to store employee data. The database schema consists of two tables: employees and roles. The employees table stores employee information, including employee ID, name, email, and role ID. The roles table stores role information, including role ID and role name.
+The application uses MySQL as the database management system to store employee data. The database schema consist table: employees . The employees table stores employee information, including employee ID, first name,last name and email.
 
 # Frontend (React):
 The frontend of the application is built using React, a popular JavaScript library for building user interfaces. The application uses React Hooks to manage state and side effects. The user interface is designed to be user-friendly and intuitive, allowing administrators to easily perform CRUD operations on employee data.
